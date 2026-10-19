@@ -1,4 +1,5 @@
 const { test, expect } = require('@playwright/test');
+// --- IGNORE ---
 
 test('Amazon login page should open', async ({ page }) => {
   await page.goto('https://www.amazon.in/');
