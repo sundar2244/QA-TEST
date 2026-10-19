@@ -24,3 +24,5 @@ test('Search for iPhone 17 on Amazon', async ({ page }) => {
   // Step 7: Print the result
   console.log('Search for iPhone 17 completed successfully!');
 });
+//this is the end of the test
+
